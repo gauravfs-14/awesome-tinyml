@@ -14,11 +14,63 @@ To keep pace with the fast-moving field, our repository is automatically updated
 Whether you're designing deep learning models for microcontrollers, optimizing inference for edge hardware, or exploring real-world applications like wearables, smart sensors, or autonomous systems, this collection offers a centralized hub for everything TinyML — enriched by community contributions and peer-reviewed research that shape the future of efficient on-device intelligence.
 
 ## Last Updated
-June 11, 2025 at 04:16:54 PM UTC
+June 11, 2025 at 04:36:42 PM UTC
+
 
 ## Theorem
 
-## Papers (44)
+## Papers (50)
+- [Wake Vision: A Tailored Dataset and Benchmark Suite for TinyML Computer Vision Applications](https://arxiv.org/abs/2405.00892)
+- [Integration of TinyML and LargeML: A Survey of 6G and Beyond](https://arxiv.org/abs/2505.15854)
+- [msf-CNN: Patch-based Multi-Stage Fusion with Convolutional Neural Networks for TinyML](https://arxiv.org/abs/2505.11483)
+- [TActiLE: Tiny Active LEarning for wearable devices](https://arxiv.org/abs/2505.01160)
+- [TinyML NLP Scheme for Semantic Wireless Sentiment Classification with Privacy Preservation](https://arxiv.org/abs/2411.06291)
+- [MultiCore+TPU Accelerated Multi-Modal TinyML for Livestock Behaviour Recognition](https://arxiv.org/abs/2504.11467)
+- [Can LLMs Revolutionize the Design of Explainable and Efficient TinyML Models?](https://arxiv.org/abs/2504.09685)
+- [TinyFormer: Efficient Transformer Design and Deployment on Tiny Devices](https://arxiv.org/abs/2311.01759)
+- [Consolidating TinyML Lifecycle with Large Language Models: Reality, Illusion, or Opportunity?](https://arxiv.org/abs/2501.12420)
+- [Edge Intelligence for Wildlife Conservation: Real-Time Hornbill Call Classification Using TinyML](https://arxiv.org/abs/2504.12272)
+- [On-Sensor Convolutional Neural Networks with Early-Exits](https://arxiv.org/abs/2503.16939)
+- [Dendron: Enhancing Human Activity Recognition with On-Device TinyML Learning](https://arxiv.org/abs/2503.01353)
+- [Fast Data Aware Neural Architecture Search via Supernet Accelerated Evaluation](https://arxiv.org/abs/2502.12690)
+- [ETHEREAL: Energy-efficient and High-throughput Inference using Compressed Tsetlin Machine](https://arxiv.org/abs/2502.05640)
+- [EdgeMark: An Automation and Benchmarking System for Embedded Artificial Intelligence Tools](https://arxiv.org/abs/2502.01700)
+- [Enhancing Field-Oriented Control of Electric Drives with Tiny Neural Network Optimized for Micro-controllers](https://arxiv.org/abs/2502.00532)
+- [Toward Attention-based TinyML: A Heterogeneous Accelerated Architecture and Automated Deployment Flow](https://arxiv.org/abs/2408.02473)
+- [DEX: Data Channel Extension for Efficient CNN Inference on Tiny AI Accelerators](https://arxiv.org/abs/2412.06566)
+- [Enhancing Predictive Maintenance in Mining Mobile Machinery through a TinyML-enabled Hierarchical Inference Network](https://arxiv.org/abs/2411.07168)
+- [Enhanced FIWARE-Based Architecture for Cyberphysical Systems With Tiny Machine Learning and Machine Learning Operations: A Case Study on Urban Mobility Systems](https://arxiv.org/abs/2411.13583)
+- [QUTE: Quantifying Uncertainty in TinyML with Early-exit-assisted ensembles for model-monitoring](https://arxiv.org/abs/2404.12599)
+- [TinyML Security: Exploring Vulnerabilities in Resource-Constrained Machine Learning Systems](https://arxiv.org/abs/2411.07114)
+- [Energy-Aware FPGA Implementation of Spiking Neural Network with LIF Neurons](https://arxiv.org/abs/2411.01628)
+- [P-YOLOv8: Efficient and Accurate Real-Time Detection of Distracted Driving](https://arxiv.org/abs/2410.15602)
+- [A Tiny Supervised ODL Core with Auto Data Pruning for Human Activity Recognition](https://arxiv.org/abs/2408.01283)
+- [Accelerating TinyML Inference on Microcontrollers through Approximate Kernels](https://arxiv.org/abs/2409.16815)
+- [Optimizing TinyML: The Impact of Reduced Data Acquisition Rates for Time Series Classification on Microcontrollers](https://arxiv.org/abs/2409.10942)
+- [A Continual and Incremental Learning Approach for TinyML On-device Training Using Dataset Distillation and Model Size Adaption](https://arxiv.org/abs/2409.07114)
+- [Training on the Fly: On-device Self-supervised Learning aboard Nano-drones within 20 mW](https://arxiv.org/abs/2408.03168)
+- [On TinyML and Cybersecurity: Electric Vehicle Charging Infrastructure Use Case](https://arxiv.org/abs/2404.16894)
+- [StreamTinyNet: video streaming analysis with spatial-temporal TinyML](https://arxiv.org/abs/2407.17524)
+- [Enhancing TinyML Security: Study of Adversarial Attack Transferability](https://arxiv.org/abs/2407.11599)
+- [TinyAirNet: TinyML Model Transmission for Energy-efficient Image Retrieval from IoT Devices](https://arxiv.org/abs/2311.04788)
+- [HTVM: Efficient Neural Network Deployment On Heterogeneous TinyML Platforms](https://arxiv.org/abs/2406.07453)
+- [TinySV: Speaker Verification in TinyML with On-device Learning](https://arxiv.org/abs/2406.01655)
+- [Towards Contactless Elevators with TinyML using CNN-based Person Detection and Keyword Spotting](https://arxiv.org/abs/2405.13051)
+- [On-device Online Learning and Semantic Management of TinyML Systems](https://arxiv.org/abs/2405.07601)
+- [FunnelNet: An End-to-End Deep Learning Framework to Monitor Digital Heart Murmur in Real-Time](https://arxiv.org/abs/2405.09570)
+- [EcoPull: Sustainable IoT Image Retrieval Empowered by TinyML Models](https://arxiv.org/abs/2404.14236)
+- [Simulating Battery-Powered TinyML Systems Optimised using Reinforcement Learning in Image-Based Anomaly Detection](https://arxiv.org/abs/2403.05106)
+- [TinyVQA: Compact Multimodal Deep Neural Network for Visual Question Answering on Resource-Constrained Devices](https://arxiv.org/abs/2404.03574)
+- [Tiny Machine Learning: Progress and Futures](https://arxiv.org/abs/2403.19076)
+- [Tiny Graph Neural Networks for Radio Resource Management](https://arxiv.org/abs/2403.19143)
+- [Scheduled Knowledge Acquisition on Lightweight Vector Symbolic Architectures for Brain-Computer Interfaces](https://arxiv.org/abs/2403.13844)
+- [MosquIoT: A System Based on IoT and Machine Learning for the Monitoring of Aedes aegypti (Diptera: Culicidae)](https://arxiv.org/abs/2401.16258)
+- [DTMM: Deploying TinyML Models on Extremely Weak IoT Devices with Pruning](https://arxiv.org/abs/2401.09068)
+- [Is TinyML Sustainable? Assessing the Environmental Impacts of Machine Learning on Microcontrollers](https://arxiv.org/abs/2301.11899)
+- [Efficient Neural Networks for Tiny Machine Learning: A Comprehensive Review](https://arxiv.org/abs/2311.11883)
+- [Physics-Enhanced TinyML for Real-Time Detection of Ground Magnetic Anomalies](https://arxiv.org/abs/2311.11452)
+- [Enhancing Neural Architecture Search with Multiple Hardware Constraints for Deep Learning Model Deployment on Tiny IoT Devices](https://arxiv.org/abs/2310.07217)
+
 
 ## Library
 
