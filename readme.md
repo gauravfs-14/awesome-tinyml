@@ -101,7 +101,7 @@ Before contributing, take a look at the existing resources to avoid duplicates.
 
 ## License
 
-This repository is licensed under the MIT License. Feel free to use, modify, and distribute the resources as long as you include the original license and attribution.
+This repository is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE) license. You are free to share and adapt the material, provided you give appropriate credit, link to the license, and indicate if changes were made.
 
 ## Star History
 
