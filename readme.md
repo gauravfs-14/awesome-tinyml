@@ -14,12 +14,12 @@ To keep pace with the fast-moving field, our repository is automatically updated
 Whether you're designing deep learning models for microcontrollers, optimizing inference for edge hardware, or exploring real-world applications like wearables, smart sensors, or autonomous systems, this collection offers a centralized hub for everything TinyML — enriched by community contributions and peer-reviewed research that shape the future of efficient on-device intelligence.
 
 ## Last Updated
-June 15, 2025 at 01:22:37 AM UTC
+June 16, 2025 at 01:17:22 AM UTC
 
 
 ## Theorem
 
-## Papers (50)
+## Papers (51)
 - [Wake Vision: A Tailored Dataset and Benchmark Suite for TinyML Computer Vision Applications](https://arxiv.org/abs/2405.00892)
 - [Integration of TinyML and LargeML: A Survey of 6G and Beyond](https://arxiv.org/abs/2505.15854)
 - [msf-CNN: Patch-based Multi-Stage Fusion with Convolutional Neural Networks for TinyML](https://arxiv.org/abs/2505.11483)
@@ -70,6 +70,7 @@ June 15, 2025 at 01:22:37 AM UTC
 - [Efficient Neural Networks for Tiny Machine Learning: A Comprehensive Review](https://arxiv.org/abs/2311.11883)
 - [Physics-Enhanced TinyML for Real-Time Detection of Ground Magnetic Anomalies](https://arxiv.org/abs/2311.11452)
 - [Enhancing Neural Architecture Search with Multiple Hardware Constraints for Deep Learning Model Deployment on Tiny IoT Devices](https://arxiv.org/abs/2310.07217)
+- [Advances in Small-Footprint Keyword Spotting: A Comprehensive Review of Efficient Models and Algorithms](https://arxiv.org/abs/2506.11169)
 
 
 ## Library
