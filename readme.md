@@ -13,6 +13,17 @@ To keep pace with the fast-moving field, our repository is automatically updated
 
 Whether you're designing deep learning models for microcontrollers, optimizing inference for edge hardware, or exploring real-world applications like wearables, smart sensors, or autonomous systems, this collection offers a centralized hub for everything TinyML — enriched by community contributions and peer-reviewed research that shape the future of efficient on-device intelligence.
 
+> Our paper has been released on arXiv: [From Tiny Machine Learning to Tiny Deep Learning: A Survey](https://arxiv.org/abs/2506.18927). Please cite it if you find it useful. Also, check out our paper story on [AIT Lab Website](https://ait-lab.vercel.app/story/survey-tinyml).
+
+```bibtex
+@article{somvanshi2025tiny,
+  title={From Tiny Machine Learning to Tiny Deep Learning: A Survey},
+  author={Somvanshi, Shriyank and Islam, Md Monzurul and Chhetri, Gaurab and Chakraborty, Rohit and Mimi, Mahmuda Sultana and Shuvo, Swagat Ahmed and Islam, Kazi Sifatul and Javed, Syed Aaqib and Rafat, Sharif Ahmed and Dutta, Anandi and others},
+  journal={arXiv preprint arXiv:2506.18927},
+  year={2025}
+}
+```
+
 ## Last Updated
 July 8, 2025 at 01:16:02 AM UTC
 
