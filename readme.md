@@ -18,6 +18,10 @@ July 8, 2025 at 01:16:02 AM UTC
 
 ## Theorem
 
+* **TensorFlow Lite Micro: Embedded Machine Learning on TinyML Systems**
+  [He, Warden, et al., 2020 – arXiv:2010.08678](https://arxiv.org/abs/2010.08678)
+  *Presents the architecture and design of TensorFlow Lite Micro for microcontrollers and resource-constrained systems.*
+
 ## Papers (52)
 - [Wake Vision: A Tailored Dataset and Benchmark Suite for TinyML Computer Vision Applications](https://arxiv.org/abs/2405.00892)
 - [Integration of TinyML and LargeML: A Survey of 6G and Beyond](https://arxiv.org/abs/2505.15854)
