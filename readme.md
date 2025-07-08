@@ -18,7 +18,7 @@ Whether you're designing deep learning models for microcontrollers, optimizing i
 ```bibtex
 @article{somvanshi2025tiny,
   title={From Tiny Machine Learning to Tiny Deep Learning: A Survey},
-  author={Somvanshi, Shriyank and Islam, Md Monzurul and Chhetri, Gaurab and Chakraborty, Rohit and Mimi, Mahmuda Sultana and Shuvo, Swagat Ahmed and Islam, Kazi Sifatul and Javed, Syed Aaqib and Rafat, Sharif Ahmed and Dutta, Anandi and others},
+  author={Somvanshi, Shriyank and Islam, Md Monzurul and Chhetri, Gaurab and Chakraborty, Rohit and Mimi, Mahmuda Sultana and Shuvo, Swagat Ahmed and Islam, Kazi Sifatul and Javed, Syed Aaqib and Rafat, Sharif Ahmed and Dutta, Anandi and Das, Subasish},
   journal={arXiv preprint arXiv:2506.18927},
   year={2025}
 }
