@@ -16,7 +16,6 @@ Whether you're designing deep learning models for microcontrollers, optimizing i
 ## Last Updated
 July 8, 2025 at 01:16:02 AM UTC
 
-
 ## Theorem
 
 ## Papers (52)
@@ -73,14 +72,30 @@ July 8, 2025 at 01:16:02 AM UTC
 - [Advances in Small-Footprint Keyword Spotting: A Comprehensive Review of Efficient Models and Algorithms](https://arxiv.org/abs/2506.11169)
 - [From Tiny Machine Learning to Tiny Deep Learning: A Survey](https://arxiv.org/abs/2506.18927)
 
-
 ## Library
+
+* [TensorFlow Lite for Microcontrollers](https://www.tensorflow.org/lite/microcontrollers) — Google's official framework for TinyML deployment
+* [CMSIS-NN](https://github.com/ARM-software/CMSIS_5) — ARM’s optimized neural network kernels for Cortex-M processors
+* [uTensor](https://github.com/uTensor/uTensor) — Lightweight inference engine for ARM Cortex-M devices
+* [Edge Impulse](https://www.edgeimpulse.com/) — Full-stack TinyML platform with web IDE and device integration
+* [ONNX Runtime Mobile](https://onnxruntime.ai/docs/build/ios.html) — Portable ONNX inference engine for mobile and embedded systems
+* [TensorFlow Lite Micro: Embedded ML on Microcontrollers](https://arxiv.org/abs/2010.08678) — Covers architecture, design, and performance trade-offs
+* [On-Device Training Under 256 KB RAM](https://arxiv.org/abs/2203.09795) — Demonstrates methods for training ML models within severe memory constraints
+* [Benchmarking TinyML Systems](https://arxiv.org/abs/2112.01319) — Discusses performance evaluation and standardization needs in TinyML
 
 ## Tutorial
 
 ### Written Tutorials
 
+* [TinyML Education Course (HarvardX)](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning) — Free edX course with Arduino-based labs
+* [Hackster.io Anomaly Detection Tutorial](https://www.hackster.io/dmitrywat/tinyml-course-5-anomaly-detection-for-predictive-maintenance-9efa11) — Real-world predictive maintenance using Wio Terminal + Edge Impulse
+* [TensorFlow Lite Micro Examples](https://github.com/tensorflow/tflite-micro/tree/main/tensorflow/lite/micro/examples) — Official embedded examples using TFLM
+
 ### Video Tutorials
+
+* [Getting Started with TinyML (Shawn Hymel)](https://www.youtube.com/watch?v=gDFWCxrJruQ) — Introductory talk with code walkthroughs
+* [Edge Impulse Anomaly Detection Workshop](https://www.youtube.com/watch?v=NgeuagOEfUg) — Step-by-step demo for deploying on real hardware
+* [TinyML Summit Playlist (TinyML Foundation)](https://www.youtube.com/c/tinyML/videos) — Talks from global researchers and engineers
 
 ## Contributing
 
