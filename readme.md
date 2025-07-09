@@ -25,7 +25,8 @@ Whether you're designing deep learning models for microcontrollers, optimizing i
 ```
 
 ## Last Updated
-July 8, 2025 at 01:16:02 AM UTC
+July 9, 2025 at 01:17:05 AM UTC
+
 
 ## Theorem
 
@@ -86,6 +87,7 @@ July 8, 2025 at 01:16:02 AM UTC
 - [Enhancing Neural Architecture Search with Multiple Hardware Constraints for Deep Learning Model Deployment on Tiny IoT Devices](https://arxiv.org/abs/2310.07217)
 - [Advances in Small-Footprint Keyword Spotting: A Comprehensive Review of Efficient Models and Algorithms](https://arxiv.org/abs/2506.11169)
 - [From Tiny Machine Learning to Tiny Deep Learning: A Survey](https://arxiv.org/abs/2506.18927)
+
 
 ## Library
 
