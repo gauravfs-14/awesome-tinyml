@@ -25,7 +25,7 @@ Whether you're designing deep learning models for microcontrollers, optimizing i
 ```
 
 ## Last Updated
-July 22, 2025 at 01:19:28 AM UTC
+July 23, 2025 at 01:20:37 AM UTC
 
 
 ## Theorem
@@ -34,7 +34,7 @@ July 22, 2025 at 01:19:28 AM UTC
   [He, Warden, et al., 2020 – arXiv:2010.08678](https://arxiv.org/abs/2010.08678)
   *Presents the architecture and design of TensorFlow Lite Micro for microcontrollers and resource-constrained systems.*
 
-## Papers (52)
+## Papers (53)
 - [Wake Vision: A Tailored Dataset and Benchmark Suite for TinyML Computer Vision Applications](https://arxiv.org/abs/2405.00892)
 - [Integration of TinyML and LargeML: A Survey of 6G and Beyond](https://arxiv.org/abs/2505.15854)
 - [msf-CNN: Patch-based Multi-Stage Fusion with Convolutional Neural Networks for TinyML](https://arxiv.org/abs/2505.11483)
@@ -87,6 +87,7 @@ July 22, 2025 at 01:19:28 AM UTC
 - [Enhancing Neural Architecture Search with Multiple Hardware Constraints for Deep Learning Model Deployment on Tiny IoT Devices](https://arxiv.org/abs/2310.07217)
 - [Advances in Small-Footprint Keyword Spotting: A Comprehensive Review of Efficient Models and Algorithms](https://arxiv.org/abs/2506.11169)
 - [From Tiny Machine Learning to Tiny Deep Learning: A Survey](https://arxiv.org/abs/2506.18927)
+- [Data Aware Differentiable Neural Architecture Search for Tiny Keyword Spotting Applications](https://arxiv.org/abs/2507.15545)
 
 
 ## Library
