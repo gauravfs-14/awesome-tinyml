@@ -25,7 +25,7 @@ Whether you're designing deep learning models for microcontrollers, optimizing i
 ```
 
 ## Last Updated
-September 3, 2025 at 01:05:53 AM UTC
+September 4, 2025 at 01:05:31 AM UTC
 
 
 ## Theorem
