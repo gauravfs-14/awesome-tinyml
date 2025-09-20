@@ -11,9 +11,10 @@ A carefully curated collection of high-quality libraries, projects, tutorials, r
 
 To keep pace with the fast-moving field, our repository is automatically updated with the latest TinyML-related research papers from arXiv. This ensures that users always have access to the most recent innovations, techniques, and breakthroughs in the TinyML ecosystem.
 
-Whether you're designing deep learning models for microcontrollers, optimizing inference for edge hardware, or exploring real-world applications like wearables, smart sensors, or autonomous systems, this collection offers a centralized hub for everything TinyML — enriched by community contributions and peer-reviewed research that shape the future of efficient on-device intelligence.
-
-> Our paper has been released on arXiv: [From Tiny Machine Learning to Tiny Deep Learning: A Survey](https://arxiv.org/abs/2506.18927). Please cite it if you find it useful. Also, check out our paper story on [AIT Lab Website](https://ait-lab.vercel.app/story/survey-tinyml).
+> [!NOTE]
+> 📢 **Announcement:** Our paper from AIT Lab is now available on [arXiv](https://arxiv.org/abs/2506.18927)!  
+> **Title:** *From Tiny Machine Learning to Tiny Deep Learning: A Survey*  
+> If you find this paper interesting, please consider citing our work. Thank you for your support! Also, check out our paper story on [AIT Lab Website](https://ait-lab.vercel.app/story/survey-tinyml).
 
 ```bibtex
 @article{somvanshi2025tiny,
@@ -23,6 +24,8 @@ Whether you're designing deep learning models for microcontrollers, optimizing i
   year={2025}
 }
 ```
+
+Whether you're designing deep learning models for microcontrollers, optimizing inference for edge hardware, or exploring real-world applications like wearables, smart sensors, or autonomous systems, this collection offers a centralized hub for everything TinyML — enriched by community contributions and peer-reviewed research that shape the future of efficient on-device intelligence.
 
 ## Last Updated
 September 20, 2025 at 01:04:54 AM UTC
