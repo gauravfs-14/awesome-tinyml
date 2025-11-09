@@ -28,7 +28,7 @@ To keep pace with the fast-moving field, our repository is automatically updated
 Whether you're designing deep learning models for microcontrollers, optimizing inference for edge hardware, or exploring real-world applications like wearables, smart sensors, or autonomous systems, this collection offers a centralized hub for everything TinyML — enriched by community contributions and peer-reviewed research that shape the future of efficient on-device intelligence.
 
 ## Last Updated
-November 8, 2025 at 01:08:51 AM UTC
+November 9, 2025 at 01:15:56 AM UTC
 
 
 ## Theorem
