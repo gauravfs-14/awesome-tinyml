@@ -12,20 +12,24 @@ A carefully curated collection of high-quality libraries, projects, tutorials, r
 To keep pace with the fast-moving field, our repository is automatically updated with the latest TinyML-related research papers from arXiv. This ensures that users always have access to the most recent innovations, techniques, and breakthroughs in the TinyML ecosystem.
 
 > [!NOTE]
-> 📢 **Announcement:** Our paper from AIT Lab is now available on [arXiv](https://arxiv.org/abs/2506.18927)!  
+> 📢 **Announcement:** Our paper from AIT Lab is now published on [ACM Computing Surveys](https://dl.acm.org/doi/abs/10.1145/3776588)!  
 > **Title:** *From Tiny Machine Learning to Tiny Deep Learning: A Survey*  
 > If you find this paper interesting, please consider citing our work. Thank you for your support! Also, check out our paper story on [AIT Lab Website](https://ait-lab.vercel.app/story/survey-tinyml).
 
 ```bibtex
 @article{somvanshi2025tiny,
-  title={From Tiny Machine Learning to Tiny Deep Learning: A Survey},
-  author={Somvanshi, Shriyank and Islam, Md Monzurul and Chhetri, Gaurab and Chakraborty, Rohit and Mimi, Mahmuda Sultana and Shuvo, Swagat Ahmed and Islam, Kazi Sifatul and Javed, Syed Aaqib and Rafat, Sharif Ahmed and Dutta, Anandi and Das, Subasish},
-  journal={arXiv preprint arXiv:2506.18927},
-  year={2025}
+  title={From tiny machine learning to tiny deep learning: A survey},
+  author={Somvanshi, Shriyank and Islam, Md Monzurul and Chhetri, Gaurab and Chakraborty, Rohit and Mimi, Mahmuda Sultana and Shuvo, Sawgat Ahmed and Islam, Kazi Sifatul and Javed, Syed and Rafat, Sharif Ahmed and Dutta, Anandi and others},
+  journal={ACM Computing Surveys},
+  publisher={ACM New York, NY}
 }
 ```
 
 Whether you're designing deep learning models for microcontrollers, optimizing inference for edge hardware, or exploring real-world applications like wearables, smart sensors, or autonomous systems, this collection offers a centralized hub for everything TinyML — enriched by community contributions and peer-reviewed research that shape the future of efficient on-device intelligence.
+
+### Updates
+- [October 21, 2025]: Our paper has been accepted at ACM Computing Surveys 🎉!
+- [June 21, 2025]: Preprint is now available in [arXiv](https://arxiv.org/abs/2506.18927).
 
 ## Last Updated
 November 26, 2025 at 01:13:51 AM UTC
