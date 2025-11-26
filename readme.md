@@ -1,6 +1,7 @@
 # Awesome TinyML (Tiny Machine Learning)
 
 ![Awesome](https://awesome.re/badge.svg)
+[![DOI Badge](https://img.shields.io/badge/DOI-10.1145%2F3776588-blue)](https://dl.acm.org/doi/10.1145/3776588)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![GitHub Contributors](https://img.shields.io/github/contributors/gauravfs-14/awesome-tinyml.svg)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/gauravfs-14/awesome-tinyml.svg)
