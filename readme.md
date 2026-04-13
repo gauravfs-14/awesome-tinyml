@@ -33,7 +33,7 @@ Whether you're designing deep learning models for microcontrollers, optimizing i
 - [June 21, 2025]: Preprint is now available in [arXiv](https://arxiv.org/abs/2506.18927).
 
 ## Last Updated
-April 12, 2026 at 02:06:34 AM UTC
+April 13, 2026 at 02:11:10 AM UTC
 
 
 ## Theorem
@@ -42,7 +42,7 @@ April 12, 2026 at 02:06:34 AM UTC
   [He, Warden, et al., 2020 – arXiv:2010.08678](https://arxiv.org/abs/2010.08678)
   *Presents the architecture and design of TensorFlow Lite Micro for microcontrollers and resource-constrained systems.*
 
-## Papers (67)
+## Papers (68)
 - [Wake Vision: A Tailored Dataset and Benchmark Suite for TinyML Computer Vision Applications](https://arxiv.org/abs/2405.00892)
 - [Integration of TinyML and LargeML: A Survey of 6G and Beyond](https://arxiv.org/abs/2505.15854)
 - [msf-CNN: Patch-based Multi-Stage Fusion with Convolutional Neural Networks for TinyML](https://arxiv.org/abs/2505.11483)
@@ -110,6 +110,7 @@ April 12, 2026 at 02:06:34 AM UTC
 - [Affordable Precision Agriculture: A Deployment-Oriented Review of Low-Cost, Low-Power Edge AI and TinyML for Resource-Constrained Farming Systems](https://arxiv.org/abs/2603.15085)
 - [Once-for-All Channel Mixers (HYPERTINYPW): Generative Compression for TinyML](https://arxiv.org/abs/2603.24916)
 - [TinyML for Acoustic Anomaly Detection in IoT Sensor Networks](https://arxiv.org/abs/2603.26135)
+- [Fully Autonomous Z-Score-Based TinyML Anomaly Detection on Resource-Constrained MCUs Using Power Side-Channel Data](https://arxiv.org/abs/2604.08581)
 
 
 ## Library
