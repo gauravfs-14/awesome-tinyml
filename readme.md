@@ -125,6 +125,7 @@ May 3, 2026 at 02:30:06 AM UTC
 * [On-Device Training Under 256 KB RAM](https://arxiv.org/abs/2203.09795) — Demonstrates methods for training ML models within severe memory constraints
 * [Benchmarking TinyML Systems](https://arxiv.org/abs/2112.01319) — Discusses performance evaluation and standardization needs in TinyML
 * [Legend of Elya](https://github.com/Scottcjn/legend-of-elya-n64) — World's first LLM on Nintendo 64. 819K-parameter nano-GPT transformer running live inference on the MIPS R4300i CPU (93.75 MHz, 4 MB RAM) at 60 tok/s. The ultimate TinyML demo: a Zelda-style dungeon crawler with AI NPCs on 1996 console hardware. Uses RSP vector unit for matrix multiplication.
+* [Off Grid](https://github.com/alichherawalla/off-grid-mobile-ai) — Open-source iOS/Android consumer app running LLMs (Llama 3.2, Qwen 3, Gemma 3, Phi-4, DeepSeek R1) entirely on-device via llama.cpp + GGUF. 15-30 tok/s on flagship phones; 5-15 tok/s on mid-range. Includes whisper.cpp speech-to-text, vision (SmolVLM, Qwen-VL), and Stable Diffusion image generation with NPU acceleration on Snapdragon. Production deployment: 10K+ Android installs, MIT-licensed.
 
 ## Tutorial
 
